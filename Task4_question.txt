@@ -1,0 +1,8 @@
+game,genre,hours_played,review_score,copies_sold
+Chrono Quest,RPG,80,9.5,5000000
+Pixel Racer,Racing,20,8.0,15000000
+Star Jumper,Platformer,15,8.5,20000000
+Deep-sea Mystery,Adventure,10,7.5,3000000
+Cyber Rift,RPG,120,9.0,8000000
+City Builder,Strategy,50,8.2,12000000
+Galaxy Trader,Simulation,65,7.8,9000000
